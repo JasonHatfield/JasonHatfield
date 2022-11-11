@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jason Hatfield. 
 
-##I'm a web development student at Grand Canyon University with a projected graduation date in the summer of 2024.
+## I'm a web development student at Grand Canyon University with a projected graduation date in the summer of 2024.
 
 <!--
 **JasonHatfield/JasonHatfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
