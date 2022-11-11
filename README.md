@@ -1,7 +1,14 @@
 ### Hi there 👋, I'm Jason Hatfield. 
 
-## I'm a web development student at Grand Canyon University with a projected graduation date in the summer of 2024.
+### I'm a software development student at Grand Canyon University with a projected graduation date in the summer of 2024.
 
+- 🔭 I’m currently working on earning a Bachelor of Science in Software Development
+- 🌱 I’m currently learning Java and C#
+- 📫 How to reach me: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](jasonmhatfield@pm.me)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/jason-hatfield/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :anchor: Fun Fact: I was a [Helicopter Rescue Swimmer](https://www.navy.com/careers/aviation-rescue-swimmer) in the United States Navy
 <!--
 **JasonHatfield/JasonHatfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
