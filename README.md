@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jason Hatfield. 
 
-### I'm a software development student at Grand Canyon University with a projected graduation date in the summer of 2024.
+### I'm a software development student at Grand Canyon University with a projected graduation date in March 2024.
 
 - 🔭 I’m currently working on earning a Bachelor of Science in Software Development
 - 🌱 I’m currently learning Java and C#
