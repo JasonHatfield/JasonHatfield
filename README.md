@@ -1,26 +1,29 @@
-### Hi there 👋, I'm Jason Hatfield. 
+# Jason Hatfield
 
-### I'm a software development student at Grand Canyon University with a projected graduation date in March 2024.
+Software Engineer at Lowe's Companies, Inc.
 
-- 🔭 I’m currently working on earning a Bachelor of Science in Software Development
-- 🌱 I’m currently learning Java and C#
-- 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](jasonmhatfield@pm.me)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/jason-hatfield/)
+## About Me
 
-- ⚡ Fun fact: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :anchor: I was a [Helicopter Rescue Swimmer](https://www.navy.com/careers/aviation-rescue-swimmer) in the United States Navy
-<!--
-**JasonHatfield/JasonHatfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a seasoned software engineer at Lowe's Companies, Inc. with a robust academic foundation from Grand Canyon University. I am passionate about developing innovative solutions and continuously expanding my knowledge in various programming languages, including Java and C#.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently working on projects that enhance customer experience and streamline internal processes.
+- Applying best practices in coding and software design to deliver high-quality solutions.
+- Collaborating with cross-functional teams to develop and implement innovative software solutions.
+
+## Education
+
+- **Grand Canyon University**
+  - Bachelor of Science in Software Development
+
+## Contact
+
+- [Email](mailto:JasonHatfield@gcu.edu)
+- [LinkedIn](https://www.linkedin.com/in/jason-hatfield/)
+
+## Fun Fact
+
+I served as a Helicopter Rescue Swimmer in the United States Navy, where I developed strong teamwork and problem-solving skills.
+
+Feel free to connect with me on LinkedIn or reach out via email. I'm always open to discussing new opportunities and collaborations.
